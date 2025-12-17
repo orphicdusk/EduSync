@@ -58,9 +58,9 @@ edusync/
 ### Phase 1: MVP (Months 1-3)
 - [x] User authentication and profiles
 - [x] Basic course creation and enrollment
-- [ ] Video/content playback
-- [ ] Simple quizzes and assignments
-- [ ] Discussion forums
+- [x] Video/content playback
+- [x] Simple quizzes and assignments
+- [x] Discussion forums
 
 ### Current Implementation Status
 1. **Backend API**:
@@ -86,7 +86,7 @@ edusync/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/orphicdusk/EduSync.git
    cd edusync
    ```
 
